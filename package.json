@@ -14,7 +14,7 @@
     "chai": "^4.3.7",
     "detailed-logger": "^0.0.6",
     "mocha": "^10.2.0",
-    "mocha-esm": "^1.1.1",
+    "mocha-esm-loader": "^0.0.1",
     "mocha-multi": "github:jamesmortensen/mocha-multi"
   }
 }
